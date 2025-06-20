@@ -99,9 +99,7 @@ A **Full-Stack & Mobile Developer** with a passion for building seamless, high-p
 ### 📱 [TaskFlow Mobile](https://github.com/GhaniHussaini/taskflow-mobile)  
 *Productivity app with React Native*  
 
-### 🌐 [Portfolio V2](https://ghani-hussaini.vercel.app/)  
-
-https://ghanihussaini.vercel.app/
+### 🌐 [Portfolio V2](https://ghani-hussaini.vercel.app/) 
 *My latest portfolio with animations*  
 
 ---
