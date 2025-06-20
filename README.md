@@ -100,6 +100,7 @@ A **Full-Stack & Mobile Developer** with a passion for building seamless, high-p
 *Productivity app with React Native*  
 
 ### 🌐 [Portfolio V2](https://ghanihussaini.vercel.app/)  
+<a href="https://ghani-hussaini.vercel.app/"> </a>
 *My latest portfolio with animations*  
 
 ---
