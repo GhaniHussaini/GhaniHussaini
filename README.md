@@ -29,9 +29,6 @@ A **Full-Stack & Mobile Developer** with a passion for building seamless, high-p
   <a href="https://x.com/HussainiGhani" target="_blank">
   <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)">
 </a>
-  
-  <a href="mailto:ghanihussaini213@gmail.com">Send Email</a>
-
 <a href="mailto:ghanihussaini213@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
