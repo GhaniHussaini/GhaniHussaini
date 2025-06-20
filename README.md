@@ -23,7 +23,7 @@ A **Full-Stack & Mobile Developer** with a passion for building seamless, high-p
 ## 🌐 **Connect With Me**  
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ghanihussaini/">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/feed/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/ghanihussaini_">
